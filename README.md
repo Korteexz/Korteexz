@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Kortexo.
 
 **Creative developer exploring the intersection of software engineering, design and automation.**
